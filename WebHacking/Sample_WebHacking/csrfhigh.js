@@ -1,6 +1,5 @@
 //
 // PoC: CSRF (for DVWA high)
-// Author: Bonghwan Choi
 //
 
 var xhr;
