@@ -2,7 +2,6 @@
 
 //
 // PoC: a simple webshell 
-// Author: Bonghwan Choi
 //
 
 echo 'Enter a Command:<br>';
