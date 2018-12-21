@@ -1,0 +1,11 @@
+https://www.centos.org/  {CentOS)
+
+https://www.redhat.com/en (Redhat)
+
+https://www.ubuntu.com/ (Ubuntu)
+
+https://www.debian.org/  (Debian)
+
+https://www.kali.org/ (Kali)
+
+https://www.raspberrypi.org/ (RaspberryPi)
