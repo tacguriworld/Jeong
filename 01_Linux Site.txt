@@ -1,4 +1,4 @@
-https://www.centos.org/  {CentOS)
+https://www.centos.org/  (CentOS)
 
 https://www.redhat.com/en (Redhat)
 
