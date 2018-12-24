@@ -2,3 +2,7 @@
 > Linux, Windows, Python, PHP, MySQL.... TIP
 
 Blog : [Lsof.co.kr](http://www.lsof.co.kr) - memobox.kr
+
+|Site|URL|
+|--|--|
+|CentOS|http://Centos.org|
