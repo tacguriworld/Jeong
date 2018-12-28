@@ -1,13 +1,13 @@
-https://www.centos.org/  (CentOS)
+[CentOS](https://www.centos.org/) (CentOS)
 
-https://www.redhat.com/en (Redhat)
+[Redhat](https://www.redhat.com/en) (Redhat)
 
-https://www.ubuntu.com/ (Ubuntu)
+[Ubuntu](https://www.ubuntu.com/) (Ubuntu)
 
-https://www.debian.org/  (Debian)
+[Debian](https://www.debian.org/) (Debian)
 
-https://www.kali.org/ (Kali)
+[Kali](https://www.kali.org/) (Kali)
 
-https://www.raspberrypi.org/ (RaspberryPi)
+[RaspberryPi](https://www.raspberrypi.org/) (RaspberryPi)
 
-http://annyung.oops.org/ (Annyung)
+[Annyung](http://annyung.oops.org/) (Annyung)
