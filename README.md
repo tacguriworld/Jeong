@@ -1,4 +1,4 @@
-# 공개용 정보보안 관련 자료 # 업데이트 및 수정
+# 공개용 정보보안 관련 자료 - 파일내용 수정
 > Linux, Windows, Python, PHP, MySQL.... TIP
 
 Blog : [Lsof.co.kr](http://www.lsof.co.kr) - memobox.kr
